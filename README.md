@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 
 ---
 
@@ -27,6 +27,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 
 ---
