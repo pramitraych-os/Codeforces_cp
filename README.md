@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [combinatorics](#combinatorics) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [strings](#strings) (1)
 
@@ -43,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
