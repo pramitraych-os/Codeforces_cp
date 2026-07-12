@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 6 |
 
 ---
 
@@ -17,6 +17,7 @@
 - [implementation](#implementation) (1)
 - [math](#math) (5)
 - [number theory](#number-theory) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -54,6 +55,12 @@
 |---|---------|------------|----------|
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
 
 ---
 
