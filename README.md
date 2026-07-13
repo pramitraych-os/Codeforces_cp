@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
+- [data structures](#data-structures) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (7)
@@ -21,11 +23,23 @@
 
 ---
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
+
 ### combinatorics
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 
 ### greedy
 
