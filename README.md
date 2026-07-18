@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 9 |
+| 13 | 10 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [brute force](#brute-force) (1)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (7)
@@ -49,6 +50,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1373/B%20-%2001%20Game/solution.cpp) |
 
 ### greedy
 
