@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 14 |
+| 23 | 14 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [implementation](#implementation) (2)
 - [math](#math) (11)
 - [number theory](#number-theory) (3)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -136,6 +136,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
+| 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
 
 ---
 
