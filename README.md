@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 15 |
+| 26 | 15 |
 
 ---
 
@@ -22,11 +22,11 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (12)
 - [number theory](#number-theory) (3)
 - [strings](#strings) (2)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -109,6 +109,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
 ### math
@@ -147,6 +148,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ---
