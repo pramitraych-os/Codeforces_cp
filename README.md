@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 16 |
+| 39 | 16 |
 
 ---
 
@@ -16,14 +16,14 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (4)
+- [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (9)
-- [implementation](#implementation) (3)
-- [math](#math) (15)
+- [greedy](#greedy) (10)
+- [implementation](#implementation) (4)
+- [math](#math) (16)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (3)
@@ -74,6 +74,7 @@
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 
@@ -112,6 +113,7 @@
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
@@ -122,6 +124,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
@@ -140,6 +143,7 @@
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
