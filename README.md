@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 16 |
+| 47 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (14)
+- [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (2)
@@ -22,12 +23,12 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (13)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (18)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (4)
 - [strings](#strings) (4)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -49,6 +50,12 @@
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2258B1 | [Carrot Chopdown (Easy Version)](https://codeforces.com/contest/2258/problem/B1) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2258/B1%20-%20Carrot%20Chopdown%20(Easy%20Version)/solution.cpp) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
 ### bitmasks
 
@@ -136,6 +143,7 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 
 ### math
@@ -194,6 +202,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ---
