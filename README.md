@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 17 |
+| 66 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (25)
+- [Uncategorized](#uncategorized) (26)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (5)
@@ -61,6 +61,7 @@
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 | 2284A1 | [15K4JR3B (Easy Version)](https://codeforces.com/contest/2284/problem/A1) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2284/A1%20-%2015K4JR3B%20(Easy%20Version)/solution.cpp) |
+| 2284A2 | [15K4JR3B (Hard Version)](https://codeforces.com/contest/2284/problem/A2) | Unrated | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/2284/A2%20-%2015K4JR3B%20(Hard%20Version)/solution.cpp) |
 
 ### binary search
 
