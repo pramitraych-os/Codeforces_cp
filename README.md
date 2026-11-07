@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 17 |
+| 69 | 17 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [Uncategorized](#uncategorized) (27)
 - [binary search](#binary-search) (2)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (2)
-- [constructive algorithms](#constructive-algorithms) (8)
+- [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (3)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
@@ -76,6 +76,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
 
 ### brute force
 
@@ -101,6 +102,7 @@
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
