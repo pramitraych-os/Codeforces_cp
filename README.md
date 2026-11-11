@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 17 |
+| 74 | 17 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (27)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (5)
+- [brute force](#brute-force) (6)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (11)
 - [data structures](#data-structures) (3)
@@ -23,11 +23,11 @@
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (22)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (22)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (9)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -87,6 +87,7 @@
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1704B | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1704/B%20-%20Luke%20is%20a%20Foodie/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 
@@ -173,6 +174,7 @@
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
+| 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
@@ -240,6 +242,7 @@
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.cpp) |
+| 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1606/A%20-%20AB%20Balance/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/pramitraych-os/Codeforces_cp/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
